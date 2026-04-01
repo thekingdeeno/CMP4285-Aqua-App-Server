@@ -3,7 +3,6 @@ package com.example.aqua.modules.user;
 import org.springframework.stereotype.Service;
 
 import com.example.aqua.modules.user.dtos.CreateUserReq;
-import com.example.aqua.modules.user.UserRepository;
 import java.util.Map;
 import java.util.HashMap;
 import com.example.aqua.models.User;

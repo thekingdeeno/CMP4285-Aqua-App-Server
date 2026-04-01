@@ -1,11 +1,8 @@
 package com.example.aqua.modules.user;
 
-import com.example.aqua.modules.user.UserService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import com.example.aqua.shared.dtos.ApiResponse.ApiResponse;
-import java.util.Map;
-import com.example.aqua.models.User;
+import com.example.aqua.shared.dtos.ApiResponse;
 import com.example.aqua.modules.user.dtos.CreateUserReq;
 
 @RestController

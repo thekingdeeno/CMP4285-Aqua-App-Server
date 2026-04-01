@@ -1,4 +1,4 @@
-package com.example.aqua.shared.dtos.ApiResponse;
+package com.example.aqua.shared.dtos;
 
 public class ApiResponse {
     private int status;

@@ -4,7 +4,6 @@ import org.springframework.stereotype.Service;
 import com.example.aqua.modules.hardware.dtos.AddHardwareReq;
 import java.util.HashMap;
 import java.util.Map;
-import com.example.aqua.modules.hardware.HardwareRepository;
 import com.example.aqua.models.Hardware;
 
 @Service
